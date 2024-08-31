@@ -53,10 +53,10 @@ Once the project is set up, you can explore the notebooks and scripts provided i
 
 ## Models Implemented
 
-- **Logistic Regression**
-- **Naive Bayes**
-- **Random Forest**
-- **Gradient Boosting**
+- **Logistic Regression** by [desmondsiew](https://github.com/desmondsiew)
+- **Naive Bayes** by [venice0507](https://github.com/venice0507)
+- **Random Forest** by [zhenmin01](https://github.com/zhenmin01)
+- **Gradient Boosting** by [dxlee0807](https://github.com/dxlee0807)
 
 Each model is trained on Word2Vec embeddings derived from the text data, and their performances are compared to find the most effective one.
 
@@ -77,6 +77,8 @@ These can be installed via the `requirements.txt` file in the repository.
 ## Data
 
 The dataset used for this project includes labelled news articles, which are preprocessed and used to train the models. The details of data preprocessing are available in the notebooks.
+
+Dataset Link: https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection
 
 ## Results
 
