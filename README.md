@@ -67,10 +67,8 @@ The project requires the following Python packages:
 - `pandas`
 - `scikit-learn`
 - `nltk`
-- `gensim`
 - `matplotlib`
-- `seaborn`
-- `jupyter`
+- `gensim`
 
 These can be installed via the `requirements.txt` file in the repository.
 
